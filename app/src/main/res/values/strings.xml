@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Contacts_App</string>
+    <string-array name="country_array">
+        <item>Morocco</item>
+        <item>Spain</item>
+        <item>United states</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>India</item>
+        <item>Portugal</item>
+    </string-array>
 </resources>
